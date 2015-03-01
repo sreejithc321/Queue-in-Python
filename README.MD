@@ -10,7 +10,7 @@ The stack operations are given below.
 - isEmpty() tests to see whether the queue is empty. It needs no parameters and returns a boolean value.
 - size() returns the number of items in the queue. It needs no parameters and returns an integer.
 
-### Implementing a Stack in Python 
+### Implementing a Queue in Python 
 
 - queue.py
 
